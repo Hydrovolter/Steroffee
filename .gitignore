@@ -4,11 +4,7 @@ niceone.mp4
 betterone.mp4
 
 # Figuring out how to serve a 404 page on here
+# Edit: Can't be bothered
 
 404.html
 .htaccess
-
-# Replit Stuff
-
-replit.nix
-.replit
